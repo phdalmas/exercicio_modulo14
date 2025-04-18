@@ -3,19 +3,19 @@ font-family: 'Roboto', sans-serif;
 }
 
 .navbar {
-    background-color: #3154c9;
+    background-color: #808283;
 }
 
 #cabecalho .nav .nav-link.active {
-    background-color: #fff;
-    color: #3154c9;
+    background-color: #c0c2c9;
+    color:  #808283;
 }
 
 #cabecalho .nav .nav-link,
 .navbar-brand,
 .navbar-brand:hover,
 .nav-cardapio .nav-link.active:hover {
-    color: #fff;
+    color:  #c0c2c9;
 }
 
 .navbar-brand {
@@ -23,7 +23,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 .navbar-toggler {
-    background-color: #61b0dd;
+    background-color: #3f494e;
 }
 
 
@@ -33,26 +33,26 @@ font-family: 'Roboto', sans-serif;
 
 .section-title span {
     font-family: 'Poppins', sans-serif;
-    color: #3154c9;
+    color: #c0c2c9;
 }
 
 #sobre, 
 #cardapio {
-    background-color: #61b0dd;
+    background-color: #808283;
 }
 
 .text-colored {
-    color: #3154c9;
+    color:  #808283;
 }
 
 .nav-cardapio .nav-link.active, 
 #contato button  {
-    background-color: #3154c9;
+    background-color: #404450;
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: #3154c9;
+    color: #808283;
 }
 
 .social-links li {
@@ -65,7 +65,7 @@ text-decoration: none;
 
 .carousel-item img {
     height: 760px;
-    width: 1960px;
+    width: 100%;
     object-fit: cover;
 }
 
